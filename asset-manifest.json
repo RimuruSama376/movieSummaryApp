@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieSummaryApp/static/css/main.9c8b9aa8.css",
+    "main.js": "/movieSummaryApp/static/js/main.a7c545c8.js",
+    "index.html": "/movieSummaryApp/index.html",
+    "main.9c8b9aa8.css.map": "/movieSummaryApp/static/css/main.9c8b9aa8.css.map",
+    "main.a7c545c8.js.map": "/movieSummaryApp/static/js/main.a7c545c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8b9aa8.css",
+    "static/js/main.a7c545c8.js"
+  ]
+}
